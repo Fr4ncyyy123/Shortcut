@@ -1,0 +1,13 @@
+name: Shortcut
+version: '${project.version}'
+main: test.shortcut.Shortcut
+api-version: '1.20'
+commands:
+  gmc:
+    description: "Cambia modalità in Creativa"
+  gms:
+    description: "Cambia modalità in Sopravvivenza"
+  gma:
+    description: "Cambia modalità in Avventura"
+  gmsp:
+    description: "Cambia modalità in Spettatore"
